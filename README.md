@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Victor</h1>
+<h1 align="center">Hi, I'm Victor !</h1>
 <h3 align="center">I'm a passionate web and game developer.</h3>
 
 - 🔭 I’m currently studying at **Elan-Formation.**
