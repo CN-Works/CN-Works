@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript and PHP/MySql.**
 
-- ⚡ **Tifosi** and **Gym enthusiast**.
+- ⚡ **Tifosi** and **E-Racing enthusiast**.
 
 <p align="center">
 </p>
