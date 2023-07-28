@@ -3,7 +3,7 @@
 
 - 🔭 **Web Developer** student.
 
-- 🌱 I’m currently learning **JavaScript and PHP/MySql.**
+- 🌱 I’m currently learning **JavaScript and Symfony 6.**
 
 - ⚡ **Tifosi** and **E-Racing enthusiast**.
 
