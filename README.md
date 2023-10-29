@@ -1,16 +1,16 @@
 <h1 align="center" style="color: #ffffff;">Hi, I'm Victor !</h1>
-<h3 align="center" style="color: #ffffff;">I'm a passionate web and game developer.</h3>
+<h3 align="center" style="color: #ffffff;">I'm a passionate web.</h3>
 
 - 🔭 **Web Developer** student.
 
 - 🌱 I’m currently learning **JavaScript and Symfony 6.**
 
-- ⚡ **Tifosi** and **E-Racing enthusiast**.
+- ⚡ **Tifosi** and **Power Lifting enthusiast**.
 
 <p align="center">
 </p>
 
-<h3 align="left" style="color: #ffffff;">Languages and Tools:</h3>
+<h3 align="left" style="color: #ffffff;">Languages and Tools I use:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,html,css,tailwind,ts,js,php,symfony,mysql,git" />
