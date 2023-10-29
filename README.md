@@ -10,7 +10,7 @@
 <p align="center">
 </p>
 
-<h3 align="left" style="color: #ffffff;">Languages and Tools I use:</h3>
+<h3 align="left" style="color: #ffffff;">Languages and Tools I use in my projects :</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,html,css,tailwind,ts,js,php,symfony,mysql,git" />
