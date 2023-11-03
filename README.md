@@ -1,7 +1,7 @@
 <h1 align="center" style="color: #ffffff;">Hi, I'm Victor !</h1>
 <h3 align="center" style="color: #ffffff;">I'm a passionate web developer.</h3>
 
-- 🔭 **Web Developer** student, road to fullstack.
+- 🔭 **Web Developer** student which aims to become fullstack.
 
 - 🌱 I’m currently learning **JavaScript and Symfony 6.**
 
