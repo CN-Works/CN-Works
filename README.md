@@ -1,5 +1,5 @@
 <h1 align="center" style="color: #ffffff;">Hi, I'm Victor !</h1>
-<h3 align="center" style="color: #ffffff;">I'm a passionate web developer.</h3>
+<h3 align="center" style="color: #ffffff;">I'm a web developer.</h3>
 
 - :dizzy: **Web Developer** student which aims to become fullstack.
 
