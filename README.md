@@ -3,7 +3,7 @@
 
 - :dizzy: **Web Developer** aiming to become fullstack.
 
-- :desktop_computer: I’m currently learning **JavaScript and Symfony.**
+- :desktop_computer: I’m currently learning **jQuery & Tailwind.**
 
 - :hearts: **Tifosi** and **Weight lifting enthusiast**.
 
