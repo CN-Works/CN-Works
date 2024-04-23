@@ -3,7 +3,7 @@
 
 - :dizzy: **Web Developer** aiming to become fullstack.
 
-- :desktop_computer: I’m currently learning **C# & ASP.NET Core.**
+- :desktop_computer: I’m currently learning **C# & ASP.Net Core.**
 
 - :hearts: **Tifosi** and **Weight lifting enthusiast**.
 
