@@ -1,7 +1,7 @@
 <h1 align="center" style="color: #ffffff;">Hi, I'm Victor !</h1>
 <h3 align="center" style="color: #ffffff;">Web developer</h3>
 
-- :dizzy: **Web Developer** aiming to become project manager.
+- :dizzy: **Web Developer** aiming to become fullstack.
 
 - :desktop_computer: I’m currently learning **TypeScript & NextJS 14.**
 
