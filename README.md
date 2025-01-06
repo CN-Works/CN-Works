@@ -3,7 +3,7 @@
 
 - :dizzy: **Web Developer** aiming to become fullstack.
 
-- :desktop_computer: I’m currently learning **TypeScript & NextJS 14.**
+- :desktop_computer: I’m currently working on a **Custom Fivem Gamemode**.
 
 - :hearts: **Tifosi** and **Weight lifting enthusiast**.
 
