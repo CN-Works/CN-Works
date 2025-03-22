@@ -7,7 +7,7 @@
 
 - :desktop_computer: And currently working on a **Custom Fivem Gamemode**.
 
-- :hearts: **Tifosi** and **Weight lifting enthusiast**.
+- :hearts: **Scuderia Ferrari** and **Weight lifting enthusiast**.
 
 <p align="center">
 </p>
