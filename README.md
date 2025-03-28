@@ -3,7 +3,7 @@
 
 - :dizzy: **Web Developer** aiming to become fullstack.
 
-- 📖 I’m learning **Java**.
+- 📖 I’m learning **React**.
 
 - :desktop_computer: And currently working on a **Custom Fivem Gamemode**.
 
