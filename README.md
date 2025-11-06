@@ -5,7 +5,7 @@
 
 - 📖 I’m learning **React**.
 
-- :desktop_computer: And currently working on a **Custom Fivem Gamemode**.
+- :desktop_computer: And currently working on a **JavaFX fighter game & Fivem Banking application**.
 
 - :hearts: **Red Bull Racing** fan.
 
