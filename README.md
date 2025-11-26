@@ -18,7 +18,3 @@
     <img src="https://skillicons.dev/icons?i=figma,html,css,js,jquery,ts,tailwind,java,python,php,symfony,mysql,git,linux" />
   </a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CN-Works&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true" alt="CN-Works" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CN-Works&show_icons=true&locale=en&theme=react&hide_border=true" alt="CN-Works" /></p>
