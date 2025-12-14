@@ -12,14 +12,14 @@
 <p align="center">
 </p>
 
-<h3 align="left" style="color: #ffffff;">Languages and Tools I'm using in my projects :</h3>
+<h3 align="left" style="color: #ffffff;">Languages, framworks and tools I'm using in my projects :</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,html,css,js,jquery,ts,tailwind,nextjs,java,python,php,symfony,mysql" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python,php,tailwind,nextjs,symfony,mysql" />
   </a>
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,ansible,jenkins,git,linux" />
+    <img src="https://skillicons.dev/icons?i=figma,docker,git,ansible,jenkins,linux" />
   </a>
 </p>
