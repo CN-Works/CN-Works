@@ -1,11 +1,11 @@
 <h1 align="center" style="color: #ffffff;">Hi, I'm Victor !</h1>
 <h3 align="center" style="color: #ffffff;">Student & Technical Operation Manager</h3>
 
-- :dizzy: **Student** aiming to become Lead Developer.
+- :dizzy: **Student** aiming to become Software Engineer.
 
 - 📖 I’m learning **NextJS** & **Express**.
 
-- :desktop_computer: Currently working on a **object oriented framework with a native ORM for FiveM environments**.
+- :desktop_computer: Currently working on a **Fleet Management Software**.
 
 - :hearts: **Red Bull Racing** fan.
 
