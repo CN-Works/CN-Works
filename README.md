@@ -15,7 +15,7 @@
 <h3 align="left" style="color: #ffffff;">Languages, frameworks and tools :</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,php,python,java,nextjs,express,symfony,mysql,postgres" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,php,python,java,nextjs,express,symfony,prisma,mysql,postgres" />
   </a>
 </p>
 <p align="left">
