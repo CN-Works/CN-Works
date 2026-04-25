@@ -1,5 +1,5 @@
 <h1 align="center" style="color: #ffffff;">Hi, I'm Victor !</h1>
-<h3 align="center" style="color: #ffffff;">Student & Technical Operation Manager</h3>
+<h3 align="center" style="color: #ffffff;">Technical Operation Manager</h3>
 
 - :dizzy: **Student** aiming to become Software Engineer.
 
