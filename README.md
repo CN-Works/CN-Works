@@ -1,11 +1,11 @@
 <h1 align="center" style="color: #ffffff;">Hi, I'm Victor !</h1>
-<h3 align="center" style="color: #ffffff;">Technical Operation Manager</h3>
+<h3 align="center" style="color: #ffffff;">Business Central Consultant</h3>
 
 - :dizzy: **Student** aiming to become Software Engineer.
 
-- 📖 I’m learning **NextJS** & **Express**.
+- 📖 I’m learning **Application Language**.
 
-- :desktop_computer: Currently working on a **Fleet Management Software**.
+- :desktop_computer: Currently working on a **Private Gamemode**.
 
 - :hearts: **Red Bull Racing** fan.
 
